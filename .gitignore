@@ -1,0 +1,6 @@
+*.tar.gz
+*.snar
+*.log
+.ssh/
+incoming/
+recovery/
